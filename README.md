@@ -1,5 +1,5 @@
 # AyahaUnityDevelopRepositoryTemplate
-
+色をスポイトして残しておくだけのWindow
 
 # 導入方法
 * unitypackageで入れる
