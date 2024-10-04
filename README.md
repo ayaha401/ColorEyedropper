@@ -6,7 +6,7 @@
 
 # 使い方
 ![image](https://github.com/user-attachments/assets/d2fe0120-8bb3-42af-8f2d-c1234dcae434)<br>
-`AyahaGraphicDevelopTools/ColorEyedropper`でWindowを開く
+`AyahaGraphicDevelopTools/ColorEyedropper`でWindowを開く<br>
 ![image](https://github.com/user-attachments/assets/86f9ba30-5f04-4bf8-b2ba-debf47319bb6)<br>
 ColorをスポイトできるWindowが開きます。
 
